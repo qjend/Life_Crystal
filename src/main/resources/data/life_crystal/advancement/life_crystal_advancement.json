@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "life_crystal:life_crystal"
+    },
+    "title": {
+      "translate": "advancements.life_crystal_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.life_crystal_advancement.description"
+    },
+    "frame": "challenge",
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+  },
+  "criteria": {
+    "use_life_crystal": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
