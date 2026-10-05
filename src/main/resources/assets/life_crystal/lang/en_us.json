@@ -1,13 +1,4 @@
 {
-  "itemGroup.life_crystal": "Example Mod Tab",
-  "block.life_crystal.example_block": "Example Block",
-  "item.life_crystal.example_item": "Example Item",
-
-  "life_crystal.configuration.title": "Life Crystal Configs",
-  "life_crystal.configuration.section.life_crystal.common.toml": "Life Crystal Configs",
-  "life_crystal.configuration.section.life_crystal.common.toml.title": "Life Crystal Configs",
-  "life_crystal.configuration.items": "Item List",
-  "life_crystal.configuration.logDirtBlock": "Log Dirt Block",
-  "life_crystal.configuration.magicNumberIntroduction": "Magic Number Text",
-  "life_crystal.configuration.magicNumber": "Magic Number"
+  "itemGroup.life_crystal_tab": "Life Crystal",
+  "item.life_crystal.life_crystal": "Life Crystal"
 }
