@@ -1,4 +1,6 @@
 {
   "itemGroup.life_crystal_tab": "生命水晶",
-  "item.life_crystal.life_crystal": "生命水晶"
+  "item.life_crystal.life_crystal": "生命水晶",
+  "advancements.life_crystal_advancement.title": "生命嘅回響",
+  "advancements.life_crystal_advancement.description": "藴含咗無人知曉嘅生命本源......"
 }

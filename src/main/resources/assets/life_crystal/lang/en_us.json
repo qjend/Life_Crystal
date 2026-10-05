@@ -1,4 +1,6 @@
 {
   "itemGroup.life_crystal_tab": "Life Crystal",
-  "item.life_crystal.life_crystal": "Life Crystal"
+  "item.life_crystal.life_crystal": "Life Crystal",
+  "advancements.life_crystal_advancement.title": "Echoes of Life",
+  "advancements.life_crystal_advancement.description": "Used a Life Crystal."
 }

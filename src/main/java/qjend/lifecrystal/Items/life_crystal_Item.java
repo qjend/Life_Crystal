@@ -11,7 +11,7 @@ public class life_crystal_Item {
             DeferredRegister.createItems(LifeCrystal.MODID);
 
     public static final DeferredHolder<Item, Item> LIFE_CRYSTAL = ITEMS.register("life_crystal",
-            () -> new Item(new Item.Properties().stacksTo(16)));
+            () -> new life_crystal_Item_MaxHealth(new Item.Properties().stacksTo(16)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
