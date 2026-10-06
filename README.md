@@ -1,25 +1,34 @@
+# Life Crystal 
+Life Crystal is a simple and lightweight Minecraft mod. This mod adds a Life Crystal that increases max health when used.
 
-Installation information
-=======
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+# NeoForge Download
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/life_crystal?label=Modrinth%20Downloads&logo=modrinth)](https://modrinth.com/mod/life_crystal)
+
+[![GitHub Releases](https://img.shields.io/github/v/release/qjend/Life_Crystal?label=Latest%20Release&logo=github)](https://github.com/qjend/Life_Crystal/releases)
+
+
+
+
+## Contributing
+If you would like to contribute to this mod or submit a translation, please feel free to submit a PR. Thank you very much.
+
+
+## Translations
+🌍 Translation Progress %
+
+zh_cn 100%
+
+zh_hk 100%
+
+zh_tw 100%
+
+en_us 75%
+
+other  0%
+
+
